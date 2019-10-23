@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Life Security
+## Luke 12:22-34
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/security.svg)](https://travis-ci.org/sermons/security)
+[![Node deps](https://david-dm.org/sermons/security.svg)](https://david-dm.org/sermons/security)
+[![Node devDeps](https://david-dm.org/sermons/security/dev-status.svg)](https://david-dm.org/sermons/security?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
