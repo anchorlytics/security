@@ -10,3 +10,4 @@
 + 29-30: seek / suspense for food/clothing
 + 31-32: the kingdom
 + 33-34: treasure in heaven
++ not **laziness**: not work => not eat
