@@ -10,6 +10,8 @@
 + 29-30: seek / suspense for food/clothing
 + 31-32: the kingdom
 + 33-34: treasure in heaven
++ not **laziness**: not work => not eat
++ even the grass: 700-yr pots common in China, your "antiques" are our junk
 
 ---
 <!-- .slide: data-background="white" -->
