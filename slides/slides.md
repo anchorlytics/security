@@ -4,22 +4,6 @@
 
 [Kelly Sikkema](https://unsplash.com/photos/SiOW0btU0zk "caption")
 
->>>
-+ powerlessness, dependency:
-  + 22-23 intro: life/body more than food/clothing
-  + 24: birds fed
-  + 25-26: hour to life
-  + do I trust in own ability to provide? 
-+ pursuit, worry
-  + 27-28: lilies clothed
-  + 29-30: seek / suspense for food/clothing
-  + what do I worry about? source of security? 
-+ precious, treasure
-  + 31-32: the kingdom
-  + 33-34: treasure in heaven
-  + where is my treasure? What is precious to me? 
-+ even the grass: 700-yr pots common in China, your "antiques" are our trash
-
 ---
 <!-- .slide: data-background="white" -->
 # Do I **worry** about my **future**? 
@@ -123,7 +107,18 @@ there will your heart be also.
 [Luke 12:22-34 (ESV) (p.7/7)](# "ref")
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> id="outline" class="outline" -->
+## Luke 12:22-34
+1. Powerless [(v22-26)](# "ref")
+1. Pursuing [(v27-30)](# "ref")
+1. Precious [(v31-34)](# "ref")
+
+>>>
++ inability to **provide** for self
+  + **dependency** on God
++ **worry**, emotional response
+  + seeking for **security**
++ **treasure**, priorities
 
 ---
 [22](# "ref")
@@ -172,11 +167,37 @@ Of how much more **value** are you than the birds!
 
 >>>
 + two **examples**: food + clothing
-+ **birds**: small, numerous
+  + **consider**: think deeply about
 + sow/reap: **annual** cycle of labour
 + barn: **savings** for the future
 + live only **day** to day
 + but God **provides** for necessities
+
+---
+And which of you by being **anxious**<br>
+can add a single **hour** to his span of life?
+
+[26](# "ref")
+If then you are not able to do<br>
+as **small** a thing as that,<br>
+why are you anxious about the **rest**?
+
+[Luke 12:25-26 (ESV)](# "ref")
+
+>>>
++ **span** of life: age, maturity
+  + from birth to **death**
++ **emotional** response in anxiety
+  + **health**: consumed by diet / exercise
+  + **safety**: check locks 10x each night
++ give self **busy work**
+  + illusion of **control** over life
++ but ultimately, we are **powerless**
+  + not even one **hour**
++ this **smallest** thing
+  + don't worry about the **remainder**
++ God **provides** for our necessities
+  + even more than the **birds**
   + e.g., daily **manna**:
 
 ---
@@ -204,6 +225,10 @@ made me this **wealth**.’
   + do we **really** believe in God?
 + for our own **benefit**
   + but not always seen **immediately**
+
+---
+<!-- .slide: data-background="white" -->
+# Do I **trust** in my own ability to **provide**?
 
 ---
 ## outline
@@ -259,17 +284,7 @@ you are of more **value** than many sparrows.
 
 [Luke 12:6-7 (ESV)](# "ref")
 
----
-And which of you by being **anxious**<br>
-can add a single **hour** to his span of life?
-
-[Luke 12:25 (ESV)](# "ref")
-
 >>>
-+ **span** of life: age, maturity
-  + from birth to **death**
-+ this **smallest** thing
-  + don't worry about the **remainder**
 + **purpose** of eat healthy, exercise, rest?
   + to be **ready** for God's work
   + **not** to prolong **life**
@@ -298,6 +313,10 @@ and your **Father knows** that you need them.
   + the **needs** are real: food, shelter, security
   + but our **Father** knows
 + so what **should** we focus on?
+
+---
+<!-- .slide: data-background="white" -->
+# What do I **worry** about? <br> What gives me **security**?
 
 ---
 ## outline
@@ -365,4 +384,18 @@ For where your **treasure** is,<br>
 there will your **heart** be also.
 
 [Luke 12:34 (ESV)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Where is my **treasure**? <br> What is **precious** to me?
+
+---
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> -->
+For where your **treasure** is,<br>
+there will your **heart** be also.
+
+[Luke 12:34 (ESV)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> class="empty" -->
 
