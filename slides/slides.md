@@ -109,15 +109,15 @@ there will your heart be also.
 ---
 <!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> id="outline" class="outline" -->
 ## Luke 12:22-34
-1. Powerless [(v22-26)](# "ref")
-1. Pursuing [(v27-30)](# "ref")
-1. Precious [(v31-34)](# "ref")
+1. Anxiety [(v22-24)](# "ref")
+1. Powerlessness [(v25-28)](# "ref")
+1. Pursuit [(v29-34)](# "ref")
 
 >>>
-+ inability to **provide** for self
-  + **dependency** on God
 + **worry**, emotional response
   + seeking for **security**
++ inability to **provide** for self
+  + **dependency** on God
 + **treasure**, priorities
 
 ---
@@ -174,33 +174,6 @@ Of how much more **value** are you than the birds!
 + but God **provides** for necessities
 
 ---
-And which of you by being **anxious**<br>
-can add a single **hour** to his span of life?
-
-[26](# "ref")
-If then you are not able to do<br>
-as **small** a thing as that,<br>
-why are you anxious about the **rest**?
-
-[Luke 12:25-26 (ESV)](# "ref")
-
->>>
-+ **span** of life: age, maturity
-  + from birth to **death**
-+ **emotional** response in anxiety
-  + **health**: consumed by diet / exercise
-  + **safety**: check locks 10x each night
-+ give self **busy work**
-  + illusion of **control** over life
-+ but ultimately, we are **powerless**
-  + not even one **hour**
-+ this **smallest** thing
-  + don't worry about the **remainder**
-+ God **provides** for our necessities
-  + even more than the **birds**
-  + e.g., daily **manna**:
-
----
 In the wilderness He fed you **manna**<br>
 which your fathers did not know,
 
@@ -228,10 +201,32 @@ made me this **wealth**.’
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **trust** in my own ability to **provide**?
+# What do I **worry** about? <br> What gives me **security**?
 
 ---
 ## outline
+
+---
+And which of you by being **anxious**<br>
+can add a single **hour** to his span of life?
+
+[26](# "ref")
+If then you are not able to do<br>
+as **small** a thing as that,<br>
+why are you anxious about the **rest**?
+
+[Luke 12:25-26 (ESV)](# "ref")
+
+>>>
++ **span** of life: age, maturity
+  + from birth to **death**
++ but ultimately, we are **powerless**
+  + not even one **hour**
++ this **smallest** thing
+  + don't worry about the **remainder**
++ God **provides** for our necessities
+  + even more than the **birds**
+  + e.g., daily **manna**:
 
 ---
 Consider the **lilies**, how they grow:
@@ -241,6 +236,14 @@ even **Solomon** in all his glory<br>
 was not arrayed like one of these.
 
 [Luke 12:27 (ESV)](# "ref")
+
+>>>
++ small field **flowers**
++ toil: **stress** / tiring of labour
+  + spin: as wool/thread: **make**
++ not just that God **provides**
+  + but provides **abundantly**
+  + and **beautifully**
 
 ---
 But if God so clothes the **grass**,<br>
@@ -255,7 +258,7 @@ O you of little **faith**!
 >>>
 + focus is not on **birds**/flowers, but
   + on compassion of our **Father**
-+ and our **response** in faith
++ and hence our **response** in faith
 
 ---
 For you know how you ought to **imitate** us,<br>
@@ -293,15 +296,17 @@ you are of more **value** than many sparrows.
   + unable to **focus** on God's kingdom
 
 ---
+<!-- .slide: data-background="white" -->
+# Do I **trust** in my own **ability** to provide?
+
+---
+## outline
+
+---
 And do not **seek** what you are to eat<br>
 and what you are to drink, nor be **worried**.
 
-[30](# "ref")
-For all the nations of the **world**<br>
-seek after these things,<br>
-and your **Father knows** that you need them.
-
-[Luke 12:29-30 (ESV)](# "ref")
+[Luke 12:29 (ESV)](# "ref")
 
 >>>
 + seek: **search**, pursue, as for philosophical truth
@@ -309,17 +314,26 @@ and your **Father knows** that you need them.
 + **waiting** for life/finances to be **stable**
   + not about becoming **rich**, but
   + freedom from **worry** about necessities
+
++ **emotional** response in anxiety
+  + **health**: consumed by diet / exercise
+  + **safety**: check locks 10x each night
++ give self **busy work**
+  + illusion of **control** over life
+
+---
+For all the nations of the **world**<br>
+seek after these things,
+
+and your **Father knows** that you need them.
+
+[Luke 12:29-30 (ESV)](# "ref")
+
+>>>
 + human **nature**, the world pursues this
   + the **needs** are real: food, shelter, security
   + but our **Father** knows
 + so what **should** we focus on?
-
----
-<!-- .slide: data-background="white" -->
-# What do I **worry** about? <br> What gives me **security**?
-
----
-## outline
 
 ---
 **Instead**, seek his **kingdom**,<br>
