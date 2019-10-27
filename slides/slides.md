@@ -161,7 +161,8 @@ they neither sow nor reap,<br>
 they have neither **storehouse** nor barn,<br>
 and yet God **feeds** them.
 
-Of how much more **value** are you than the birds!
+Of how much more **value** are you<br>
+than the birds!
 
 [Luke 12:24 (ESV)](# "ref")
 
@@ -181,12 +182,7 @@ that He might **humble** you<br>
 and that He might **test** you,<br>
 to do **good** for you in the end.
 
-[17](# "ref")
-Otherwise, you may say in your heart,<br>
-‘My **power** and the strength of my **hand**<br>
-made me this **wealth**.’
-
-[Deuteronomy 8:16-17 (NASB)](# "ref")
+[Deuteronomy 8:16-17 (NASB) (p.1/2)](# "ref")
 
 >>>
 + only 1 **day**'s worth of food
@@ -194,9 +190,18 @@ made me this **wealth**.’
   + **store** up much for the future
 + to **humble** us so we are not proud
   + or trust in own **power**
+
+---
+Otherwise, you may say in your heart,<br>
+‘My **power** and the strength of my **hand**<br>
+made me this **wealth**.’
+
+[Deuteronomy 8:16-17 (NASB) (p.2/2)](# "ref")
+
+>>>
 + to **test** the purity of our **faith**
   + do we **really** believe in God?
-+ for our own **benefit**
++ for our own **benefit**, good in the end
   + but not always seen **immediately**
 
 ---
@@ -262,18 +267,33 @@ O you of little **faith**!
 
 ---
 For you know how you ought to **imitate** us,<br>
-because we were not **idle** when we were with you,<br>
+because we were not **idle** <br>
+when we were with you,<br>
 [8](# "ref")
 nor did we eat anyone's **bread**<br>
 without paying for it,
 
-but with **toil and labor** we worked **night and day**,<br>
+[2 Thessalonians 3:7-8,10 (ESV) (p.1/2)](# "ref")
+
+---
+[8](# "ref")
+but with **toil and labor** <br>
+we worked **night and day**,<br>
 that we might not be a **burden** to any of you
 
 [10](# "ref")
-If anyone is not willing to **work**, let him not **eat**.
+If anyone is not willing to **work**, <br>
+let him not **eat**.
 
-[2 Thessalonians 3:7-8,10 (ESV)](# "ref")
+[2 Thessalonians 3:7-8,10 (ESV) (p.2/2)](# "ref")
+
+>>>
++ v10 good for **teens**!
++ had the **right** to expect church to provide
+  + was **serving** church in gospel
++ but did not **exercise** that right
++ in order to lead by **example**:
+  + not **idle** / doing **busy work**
 
 ---
 Are not five **sparrows** sold for two pennies?<br>
@@ -326,12 +346,12 @@ seek after these things,
 
 and your **Father knows** that you need them.
 
-[Luke 12:29-30 (ESV)](# "ref")
+[Luke 12:30 (ESV)](# "ref")
 
 >>>
 + human **nature**, the world pursues this
   + the **needs** are real: food, shelter, security
-  + but our **Father** knows
++ but our **Father** knows
 + so what **should** we focus on?
 
 ---
@@ -425,6 +445,8 @@ to give you the **kingdom**.
   + we are **small**, powerless
   + but our **powerful** Shepherd guides us
 + and has a **promise** of future hope
+  + **crown** of life to those who've **persevered**
+  + **strength** / resilience in **this** life:
 
 ---
 In everything **commending** ourselves as **servants** of God
@@ -436,13 +458,22 @@ as having **nothing** yet possessing **all** things
 [2 Corinthians 6:4,10 (NASB)](# "ref")
 
 >>>
-+ 
++ focus on **God** as our Master
++ not afraid to put ourselves **out** there
+  + display our own **frailty**
++ to highlight God's abundant **provision**
 
 ---
 For where your **treasure** is,<br>
 there will your **heart** be also.
 
 [Luke 12:34 (ESV)](# "ref")
+
+>>>
++ treasure: act of **storing** up
+  + walk **seashore**: collect pretty **stones** 
++ as we **walk** through life,
+  + are we **seeking** opportunity to show **mercy**?
 
 ---
 <!-- .slide: data-background="white" -->
