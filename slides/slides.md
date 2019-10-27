@@ -137,9 +137,41 @@ Of how much more **value** are you than the birds!
 
 >>>
 + two **examples**: food + clothing
-  + no **savings** (barns)
-  + no painful **toil**
++ **birds**: small, numerous
++ sow/reap: **annual** cycle of labour
++ barn: **savings** for the future
++ live only **day** to day
 + but God **provides** for necessities
+  + e.g., daily **manna**:
+
+---
+In the wilderness He fed you **manna**<br>
+which your fathers did not know,
+
+that He might **humble** you<br>
+and that He might **test** you,<br>
+to do **good** for you in the end.
+
+[17](# "ref")
+Otherwise, you may say in your heart,<br>
+‘My **power** and the strength of my **hand**<br>
+made me this **wealth**.’
+
+[Deuteronomy 8:16-17 (NASB)](# "ref")
+
+>>>
++ only 1 **day**'s worth of food
++ sometimes God does not **allow** us to
+  + **store** up much for the future
++ to **humble** us so we are not proud
+  + or trust in own **power**
++ to **test** the purity of our **faith**
+  + do we **really** believe in God?
++ for our own **benefit**
+  + but not always seen **immediately**
+
+---
+## outline
 
 ---
 Consider the **lilies**, how they grow:
@@ -166,6 +198,18 @@ O you of little **faith**!
 + and our **response** in faith
 
 ---
+Are not five **sparrows** sold for two pennies?<br>
+And not one of them is **forgotten** before God.
+
+[7](# "ref")
+Why, even the **hairs** of your head are all **numbered**.
+
+**Fear** not;<br>
+you are of more **value** than many sparrows.
+
+[Luke 12:6-7 (ESV)](# "ref")
+
+---
 And which of you by being **anxious**<br>
 can add a single **hour** to his span of life?
 
@@ -174,6 +218,8 @@ can add a single **hour** to his span of life?
 >>>
 + **span** of life: age, maturity
   + from birth to **death**
++ this **smallest** thing
+  + don't worry about the **remainder**
 + **purpose** of eat healthy, exercise, rest?
   + to be **ready** for God's work
   + **not** to prolong **life**
@@ -202,6 +248,9 @@ and your **Father knows** that you need them.
   + the **needs** are real: food, shelter, security
   + but our **Father** knows
 + so what **should** we focus on?
+
+---
+## outline
 
 ---
 **Instead**, seek his **kingdom**,<br>
@@ -250,6 +299,15 @@ and no **moth** destroys.
   + train our **reliance** on God's providence
   + learn to emulate His **mercy**
 + **invest** in lasting treasure
+
+---
+In everything **commending** ourselves as **servants** of God
+
+as **sorrowful** yet always **rejoicing**, <br>
+as **poor** yet making many **rich**, <br>
+as having **nothing** yet possessing **all** things
+
+[2 Corinthians 6:4,10 (NASB)](# "ref")
 
 ---
 For where your **treasure** is,<br>
