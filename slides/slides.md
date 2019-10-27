@@ -7,12 +7,15 @@
   + 22-23 intro: life/body more than food/clothing
   + 24: birds fed
   + 25-26: hour to life
+  + do I trust in own ability to provide? 
 + worry, pursuit
   + 27-28: lilies clothed
   + 29-30: seek / suspense for food/clothing
+  + what do I worry about? source of security? 
 + treasure
   + 31-32: the kingdom
   + 33-34: treasure in heaven
+  + where is my treasure? What is precious to me? 
 + not **laziness**: not work => not eat
 + even the grass: 700-yr pots common in China, your "antiques" are our trash
 
@@ -242,7 +245,7 @@ and your **Father knows** that you need them.
 [Luke 12:29-30 (ESV)](# "ref")
 
 >>>
-+ seek: **zeal**, pursue, consumed by
++ seek: **search**, pursue, as for philosophical truth
   + worry: **suspended** in midair
 + **waiting** for life/finances to be **stable**
   + not about becoming **rich**, but
