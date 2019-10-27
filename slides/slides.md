@@ -213,7 +213,7 @@ made me this **wealth**.’
 
 ---
 <!-- .slide: data-background="white" -->
-# What do I **worry** about? <br> What gives me **security**?
+# What do I <br> **worry** about? <br> What gives me **security**?
 
 ---
 ## outline
@@ -345,7 +345,7 @@ you are of more **value** than many sparrows.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **trust** in my own **ability** to provide?
+# Do I **trust** in <br> my own **ability** <br> to provide?
 
 ---
 ## outline
@@ -409,13 +409,7 @@ and these things will be added to you.
 Provide yourselves with **moneybags**<br>
 that do not grow **old**,
 
-with a **treasure** in the heavens <br>
-that does not **fail**,
-
-where no **thief** approaches <br>
-and no **moth** destroys.
-
-[Luke 12:33 (ESV)](# "ref")
+[Luke 12:33 (ESV) (p.1/2)](# "ref")
 [Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
@@ -426,6 +420,20 @@ and no **moth** destroys.
 + by **giving**, we:
   + train our **reliance** on God's providence
   + learn to emulate His **mercy**
+
+---
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
+with a **treasure** in the heavens <br>
+that does not **fail**,
+
+where no **thief** approaches <br>
+and no **moth** destroys.
+
+[Luke 12:33 (ESV) (p.2/2)](# "ref")
+[Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
+
+>>>
++ **safest** place for our investment
 + worldly wealth is not **reliable**:
   + **external** threats (thieves)
   + **internal** loss of utility (decay)
@@ -519,7 +527,7 @@ there will your **heart** be also.
 
 ---
 <!-- .slide: data-background="white" -->
-# Where is my **treasure**? <br> What is **precious** to me?
+# Where is my **treasure**? <br> What is **precious** <br> to me?
 
 ---
 <!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> -->
