@@ -70,16 +70,16 @@ why are you anxious about the rest?
 
 ******
 [27](# "ref")
-Consider the lilies, how they grow:
-they neither toil nor spin, yet I tell you,
-even Solomon in all his glory
+Consider the lilies, how they grow:<br>
+they neither toil nor spin, yet I tell you,<br>
+even Solomon in all his glory<br>
 was not arrayed like one of these.
 
 [28](# "ref")
-But if God so clothes the grass,
-which is alive in the field today,
-and tomorrow is thrown into the oven,
-how much more will he clothe you,
+But if God so clothes the grass,<br>
+which is alive in the field today,<br>
+and tomorrow is thrown into the oven,<br>
+how much more will he clothe you,<br>
 O you of little faith!
 
 [Luke 12:22-34 (ESV) (p.4/7)](# "ref")
@@ -152,6 +152,12 @@ in the abundance of his **possessions**.
 [Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
 
 >>>
++ what does it mean to be **alive**?
+  + **identity**: who God made you to be
++ not what you **own**
++ not being able to **provide** for self
++ not indulging selfish **desires**
+  + to **play** + have fun
 
 ---
 Consider the **ravens**: 
