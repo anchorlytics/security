@@ -5,6 +5,9 @@
 [Kelly Sikkema](https://unsplash.com/photos/SiOW0btU0zk "caption")
 
 >>>
++ do I worry about the future? 
+  + some: finances, career, edu
+  + others: health, parents, kids
 + powerlessness, dependency:
   + 22-23 intro: life/body more than food/clothing
   + 24: birds fed
