@@ -110,8 +110,8 @@ there will your heart be also.
 <!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> id="outline" class="outline" -->
 ## Luke 12:22-34
 1. Anxiety [(v22-24)](# "ref")
-1. Powerlessness [(v25-28)](# "ref")
-1. Pursuit [(v29-34)](# "ref")
+1. Ability [(v25-28)](# "ref")
+1. Alms [(v29-34)](# "ref")
 
 >>>
 + **worry**, emotional response
@@ -216,7 +216,11 @@ made me this **wealth**.’
 # What do I <br> **worry** about? <br> What gives me **security**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> class="outline" -->
+## Luke 12:22-34
+1. Anxiety [(v22-24)](# "ref")
+1. **Ability** [(v25-28)](# "ref")
+1. Alms [(v29-34)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-UIUgYu9bENU-dark_pocketwatch.jpg") %> -->
@@ -234,6 +238,14 @@ why are you anxious about the **rest**?
 >>>
 + **span** of life: age, maturity
   + from birth to **death**
++ **worry** / anxiety does no good:
+  + split/**divided** attention
+  + unable to **focus** on God's kingdom
++ **emotional** response in anxiety
+  + **health**: consumed by diet / exercise
+  + **safety**: check locks 10x each night
++ give self **busy work**
+  + illusion of **control** over life
 + but ultimately, we are **powerless**
   + not even one **hour**
 + this **smallest** thing
@@ -265,23 +277,6 @@ was not arrayed like one of these.
 + not just that God **provides**
   + but provides **abundantly**
   + and **beautifully**
-
----
-<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
-But if God so clothes the **grass**,<br>
-which is alive in the **field** today,<br>
-and tomorrow is thrown into the **oven**,
-
-how much more will he **clothe** you,<br>
-O you of little **faith**!
-
-[Luke 12:28 (ESV)](# "ref")
-[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
-
->>>
-+ focus is not on **birds**/flowers, but
-  + on compassion of our **Father**
-+ and hence our **response** in faith
 
 ---
 <!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
@@ -334,21 +329,34 @@ you are of more **value** than many sparrows.
 + **purpose** of eat healthy, exercise, rest?
   + to be **ready** for God's work
   + **not** to prolong **life**
-+ **worry** / anxiety does no good:
-  + split/**divided** attention
-  + unable to **focus** on God's kingdom
-+ **emotional** response in anxiety
-  + **health**: consumed by diet / exercise
-  + **safety**: check locks 10x each night
-+ give self **busy work**
-  + illusion of **control** over life
+
+---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
+But if God so clothes the **grass**,<br>
+which is alive in the **field** today,<br>
+and tomorrow is thrown into the **oven**,
+
+how much more will he **clothe** you,<br>
+O you of little **faith**!
+
+[Luke 12:28 (ESV)](# "ref")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
+
+>>>
++ focus is not on **birds**/flowers, but
+  + on compassion of our **Father**
++ and hence our **response** in faith
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I **trust** in <br> my own **ability** <br> to provide?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> class="outline" -->
+## Luke 12:22-34
+1. Anxiety [(v22-24)](# "ref")
+1. Ability [(v25-28)](# "ref")
+1. **Alms** [(v29-34)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
