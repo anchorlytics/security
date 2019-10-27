@@ -121,6 +121,7 @@ there will your heart be also.
 + **treasure**, priorities
 
 ---
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 [22](# "ref")
 Do not be **anxious** about your life, <br>
 what you will **eat**, <br>
@@ -131,6 +132,7 @@ For **life** is more than food, <br>
 and the **body** more than clothing. 
 
 [Luke 12:22-23 (ESV)](# "ref")
+[Gabby Orcutt](https://unsplash.com/photos/9mzGpUpqUpw "caption")
 
 >>>
 + not that **life**/body not important
@@ -139,12 +141,12 @@ and the **body** more than clothing.
 + remember v15, Jesus' warning abt **covetousness**:
 
 ---
-<!-- .slide: <%= bg("unsplash-1k5Qq4YQM0g-mtn_lake_sunset.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 One's **life** does not consist <br>
 in the abundance of his **possessions**.
 
 [Luke 12:15b (ESV)](# "ref")
-[Mark Basarab](https://unsplash.com/photos/1k5Qq4YQM0g "caption")
+[Vita Vilcina, Spain](https://unsplash.com/photos/KtOid0FLjqU "caption")
 
 >>>
 + what does it mean to be **alive**?
@@ -155,6 +157,7 @@ in the abundance of his **possessions**.
   + to **play** + have fun
 
 ---
+<!-- .slide: <%= bg("unsplash-p72K-AvJrbQ-birds_silhouette.jpg") %> -->
 Consider the **ravens**: 
 
 they neither sow nor reap,<br>
@@ -165,6 +168,7 @@ Of how much more **value** are you<br>
 than the birds!
 
 [Luke 12:24 (ESV)](# "ref")
+[Lancaster County, PA. Barth Bailey](https://unsplash.com/photos/p72K-AvJrbQ "caption")
 
 >>>
 + two **examples**: food + clothing
@@ -173,8 +177,10 @@ than the birds!
 + barn: **savings** for the future
 + live only **day** to day
 + but God **provides** for necessities
+  + e.g., daily **manna**:
 
 ---
+<!-- .slide: <%= bg("wm-Riverina_Sheep_during_drought.jpg") %> -->
 In the wilderness He fed you **manna**<br>
 which your fathers did not know,
 
@@ -192,6 +198,7 @@ to do **good** for you in the end.
   + or trust in own **power**
 
 ---
+<!-- .slide: <%= bg("wm-Riverina_Sheep_during_drought.jpg") %> -->
 Otherwise, you may say in your heart,<br>
 ‘My **power** and the strength of my **hand**<br>
 made me this **wealth**.’
@@ -212,6 +219,7 @@ made me this **wealth**.’
 ## outline
 
 ---
+<!-- .slide: <%= bg("unsplash-UIUgYu9bENU-dark_pocketwatch.jpg") %> -->
 And which of you by being **anxious**<br>
 can add a single **hour** to his span of life?
 
@@ -221,6 +229,7 @@ as **small** a thing as that,<br>
 why are you anxious about the **rest**?
 
 [Luke 12:25-26 (ESV)](# "ref")
+[Melitopol, Ukraine. Rodion Kutsaev](https://unsplash.com/photos/UIUgYu9bENU "caption")
 
 >>>
 + **span** of life: age, maturity
@@ -230,10 +239,10 @@ why are you anxious about the **rest**?
 + this **smallest** thing
   + don't worry about the **remainder**
 + God **provides** for our necessities
-  + even more than the **birds**
-  + e.g., daily **manna**:
+  + even more than the **birds**, flowers:
 
 ---
+<!-- .slide: <%= bg("unsplash-U5Bl72Brlhs-lily.jpg") %> -->
 Consider the **lilies**, how they grow:
 
 they neither **toil** nor spin, yet I tell you,<br>
@@ -241,6 +250,7 @@ even **Solomon** in all his glory<br>
 was not arrayed like one of these.
 
 [Luke 12:27 (ESV)](# "ref")
+[Paweł Czerwiński](https://unsplash.com/photos/U5Bl72Brlhs "caption")
 
 >>>
 + small field **flowers**
@@ -251,6 +261,7 @@ was not arrayed like one of these.
   + and **beautifully**
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 But if God so clothes the **grass**,<br>
 which is alive in the **field** today,<br>
 and tomorrow is thrown into the **oven**,
@@ -259,6 +270,7 @@ how much more will he **clothe** you,<br>
 O you of little **faith**!
 
 [Luke 12:28 (ESV)](# "ref")
+[Geran de Klerk, Gävle, Sweden](https://unsplash.com/photos/WJkc3xZjSXw "caption")
 
 >>>
 + focus is not on **birds**/flowers, but
@@ -266,6 +278,7 @@ O you of little **faith**!
 + and hence our **response** in faith
 
 ---
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 For you know how you ought to **imitate** us,<br>
 because we were not **idle** <br>
 when we were with you,<br>
@@ -274,8 +287,10 @@ nor did we eat anyone's **bread**<br>
 without paying for it,
 
 [2 Thessalonians 3:7-8,10 (ESV) (p.1/2)](# "ref")
+[Elaine Casap](https://unsplash.com/photos/qgHGDbbSNm8 "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 [8](# "ref")
 but with **toil and labor** <br>
 we worked **night and day**,<br>
@@ -296,6 +311,7 @@ let him not **eat**.
   + not **idle** / doing **busy work**
 
 ---
+<!-- .slide: <%= bg("unsplash-p72K-AvJrbQ-birds_silhouette.jpg") %> -->
 Are not five **sparrows** sold for two pennies?<br>
 And not one of them is **forgotten** before God.
 
@@ -329,10 +345,12 @@ you are of more **value** than many sparrows.
 ## outline
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 And do not **seek** what you are to eat<br>
 and what you are to drink, nor be **worried**.
 
 [Luke 12:29 (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + seek: **search**, pursue, as for philosophical truth
@@ -342,12 +360,14 @@ and what you are to drink, nor be **worried**.
   + freedom from **worry** about necessities
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 For all the nations of the **world**<br>
 seek after these things,
 
 and your **Father knows** that you need them.
 
 [Luke 12:30 (ESV)](# "ref")
+[Geetanjal Khanna](https://unsplash.com/photos/8CwoHpZe3qE "caption")
 
 >>>
 + human **nature**, the world pursues this
@@ -356,10 +376,12 @@ and your **Father knows** that you need them.
 + so what **should** we focus on?
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 **Instead**, seek his **kingdom**,<br>
 and these things will be added to you.
 
 [Luke 12:31 (ESV)](# "ref")
+[Iceland. Davide Cantelli](https://unsplash.com/photos/H3giJcTw__w "caption")
 
 >>>
 + instead: **only**, just this one thing
@@ -375,6 +397,7 @@ and these things will be added to you.
   + or do we fear **God** foremost?
 
 ---
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> -->
 **Sell** your possessions, and **give** to the needy.
 
 Provide yourselves with **moneybags**<br>
@@ -387,6 +410,7 @@ where no **thief** approaches <br>
 and no **moth** destroys.
 
 [Luke 12:33 (ESV)](# "ref")
+[Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
 + give **alms**: mercy
@@ -401,6 +425,7 @@ and no **moth** destroys.
   + **internal** loss of utility (decay)
 
 ---
+<!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
 Let the **lowly** brother boast in his **exaltation**,<br>
 [10](# "ref")
 and the **rich** in his **humiliation**,
@@ -409,6 +434,7 @@ because like a **flower** of the grass <br>
 he will **pass away**.
 
 [James 1:9-10 (ESV)](# "ref")
+[Dominik Martin](https://unsplash.com/photos/YuVzPOBuuf0 "caption")
 
 >>>
 + flowers are **beautiful** but don't last
@@ -421,12 +447,14 @@ he will **pass away**.
   + but **missing** one important thing:
 
 ---
+<!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 One thing you still **lack**.<br>
 **Sell** all that you have and distribute to the **poor**,<br>
 and you will have **treasure in heaven**;<br>
 and come, **follow me**
 
 [Luke 18:22 (ESV)](# "ref")
+[Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
 + learn **dependence** on God
@@ -436,11 +464,13 @@ and come, **follow me**
 + **follow** in Christ's footsteps
 
 ---
+<!-- .slide: <%= bg("unsplash-nph59r9hkVg-lambs.jpg") %> -->
 “**Fear** not, little **flock**,<br>
 for it is your **Father's** good pleasure <br>
 to give you the **kingdom**.
 
 [Luke 12:32 (ESV)](# "ref")
+[Gemma Evans](https://unsplash.com/photos/nph59r9hkVg "caption")
 
 >>>
 + little flock: term of **affection**
@@ -451,6 +481,7 @@ to give you the **kingdom**.
   + **strength** / resilience in **this** life:
 
 ---
+<!-- .slide: <%= bg("Raphael-St_Paul_Preaching_Athens.jpg") %> -->
 In everything **commending** ourselves as **servants** of God
 
 as **sorrowful** yet always **rejoicing**, <br>
@@ -458,6 +489,7 @@ as **poor** yet making many **rich**, <br>
 as having **nothing** yet possessing **all** things
 
 [2 Corinthians 6:4,10 (NASB)](# "ref")
+[Raphael, "St. Paul Preaching in Athens", 1515](http://www.the-athenaeum.org/art/detail.php?ID=34558 "caption")
 
 >>>
 + focus on **God** as our Master
@@ -466,10 +498,12 @@ as having **nothing** yet possessing **all** things
 + to highlight God's abundant **provision**
 
 ---
+<!-- .slide: <%= bg("unsplash-6yZ5CWMnDNw-beach_pebbles.jpg") %> -->
 For where your **treasure** is,<br>
 there will your **heart** be also.
 
 [Luke 12:34 (ESV)](# "ref")
+[Anas Belmadani](https://unsplash.com/photos/6yZ5CWMnDNw "caption")
 
 >>>
 + treasure: act of **storing** up
