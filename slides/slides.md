@@ -245,15 +245,21 @@ why are you anxious about the **rest**?
 <!-- .slide: <%= bg("unsplash-U5Bl72Brlhs-lily.jpg") %> -->
 Consider the **lilies**, how they grow:
 
-they neither **toil** nor spin, yet I tell you,<br>
-even **Solomon** in all his glory<br>
-was not arrayed like one of these.
-
-[Luke 12:27 (ESV)](# "ref")
+[Luke 12:27 (ESV) (p.1/2)](# "ref")
 [Paweł Czerwiński](https://unsplash.com/photos/U5Bl72Brlhs "caption")
 
 >>>
 + small field **flowers**
+
+---
+<!-- .slide: <%= bg("unsplash-U5Bl72Brlhs-lily.jpg") %> -->
+they neither **toil** nor spin, yet I tell you,<br>
+even **Solomon** in all his glory<br>
+was not arrayed like one of these.
+
+[Luke 12:27 (ESV) (p.2/2)](# "ref")
+
+>>>
 + toil: **stress** / tiring of labour
   + spin: as wool/thread: **make**
 + not just that God **provides**
