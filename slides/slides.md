@@ -5,19 +5,16 @@
 [Kelly Sikkema](https://unsplash.com/photos/SiOW0btU0zk "caption")
 
 >>>
-+ do I worry about the future? 
-  + some: finances, career, edu
-  + others: health, parents, kids
 + powerlessness, dependency:
   + 22-23 intro: life/body more than food/clothing
   + 24: birds fed
   + 25-26: hour to life
   + do I trust in own ability to provide? 
-+ worry, pursuit
++ pursuit, worry
   + 27-28: lilies clothed
   + 29-30: seek / suspense for food/clothing
   + what do I worry about? source of security? 
-+ treasure
++ precious, treasure
   + 31-32: the kingdom
   + 33-34: treasure in heaven
   + where is my treasure? What is precious to me? 
@@ -26,6 +23,12 @@
 ---
 <!-- .slide: data-background="white" -->
 # Do I **worry** about my **future**? 
+
+>>>
++ some: finances, career, edu
++ others: health, parents, kids
++ outlook + **emotional** response
+  + to **uncertainty** about future
 
 ******
 [22](# "ref")
@@ -40,7 +43,7 @@ nor about your body, what you will put on.
 For life is more than food, <br>
 and the body more than clothing. 
 
-[Luke 12:22-34 (ESV) (p.1/6)](# "ref")
+[Luke 12:22-34 (ESV) (p.1/7)](# "ref")
 
 ******
 [24](# "ref")
@@ -51,7 +54,7 @@ and yet God feeds them.
 
 Of how much more value are you than the birds!
 
-[Luke 12:22-34 (ESV) (p.2/6)](# "ref")
+[Luke 12:22-34 (ESV) (p.2/7)](# "ref")
 
 ******
 [25](# "ref")
@@ -63,7 +66,23 @@ If then you are not able to do<br>
 as small a thing as that,<br>
 why are you anxious about the rest?
 
-[Luke 12:22-34 (ESV) (p.3/6)](# "ref")
+[Luke 12:22-34 (ESV) (p.3/7)](# "ref")
+
+******
+[27](# "ref")
+Consider the lilies, how they grow:
+they neither toil nor spin, yet I tell you,
+even Solomon in all his glory
+was not arrayed like one of these.
+
+[28](# "ref")
+But if God so clothes the grass,
+which is alive in the field today,
+and tomorrow is thrown into the oven,
+how much more will he clothe you,
+O you of little faith!
+
+[Luke 12:22-34 (ESV) (p.4/7)](# "ref")
 
 ******
 [29](# "ref")
@@ -75,7 +94,7 @@ For all the nations of the world<br>
 seek after these things,<br>
 and your Father knows that you need them.
 
-[Luke 12:22-34 (ESV) (p.4/6)](# "ref")
+[Luke 12:22-34 (ESV) (p.5/7)](# "ref")
 
 ******
 [31](# "ref")
@@ -86,7 +105,7 @@ and these things will be added to you.
 “Fear not, little flock, for it is your Father's<br>
 good pleasure to give you the kingdom.
 
-[Luke 12:22-34 (ESV) (p.5/6)](# "ref")
+[Luke 12:22-34 (ESV) (p.6/7)](# "ref")
 
 ******
 [33](# "ref")
@@ -101,7 +120,7 @@ and no moth destroys.
 For where your treasure is, <br>
 there will your heart be also.
 
-[Luke 12:22-34 (ESV) (p.6/6)](# "ref")
+[Luke 12:22-34 (ESV) (p.7/7)](# "ref")
 
 ---
 ## outline
