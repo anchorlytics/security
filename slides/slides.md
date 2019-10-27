@@ -314,6 +314,7 @@ and no **moth** destroys.
 [Luke 12:33 (ESV)](# "ref")
 
 >>>
++ give **alms**: mercy
 + not a **scheme** to get you to 
   + **offer** more money to church!
 + thinking is still **focused** on money
