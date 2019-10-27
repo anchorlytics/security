@@ -300,7 +300,8 @@ Are not five **sparrows** sold for two pennies?<br>
 And not one of them is **forgotten** before God.
 
 [7](# "ref")
-Why, even the **hairs** of your head are all **numbered**.
+Why, even the **hairs** of your head <br>
+are all **numbered**.
 
 **Fear** not;<br>
 you are of more **value** than many sparrows.
@@ -404,7 +405,8 @@ Let the **lowly** brother boast in his **exaltation**,<br>
 [10](# "ref")
 and the **rich** in his **humiliation**,
 
-because like a **flower** of the grass he will **pass away**.
+because like a **flower** of the grass <br>
+he will **pass away**.
 
 [James 1:9-10 (ESV)](# "ref")
 
