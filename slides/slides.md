@@ -242,7 +242,7 @@ and your **Father knows** that you need them.
 [Luke 12:29-30 (ESV)](# "ref")
 
 >>>
-+ seek: **zeal**, pursue, consumed by
++ seek: **search**, pursue, as for philosophical truth
   + worry: **suspended** in midair
 + **waiting** for life/finances to be **stable**
   + not about becoming **rich**, but
