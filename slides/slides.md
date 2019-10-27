@@ -1,6 +1,8 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> id="title" -->
 # Life Security
 ## Luke 12:22-34
+
+[Kelly Sikkema](https://unsplash.com/photos/SiOW0btU0zk "caption")
 
 >>>
 + do I worry about the future? 
@@ -19,12 +21,11 @@
   + 31-32: the kingdom
   + 33-34: treasure in heaven
   + where is my treasure? What is precious to me? 
-+ not **laziness**: not work => not eat
 + even the grass: 700-yr pots common in China, your "antiques" are our trash
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Do I **worry** about my **future**? 
 
 ******
 [22](# "ref")
@@ -205,6 +206,21 @@ O you of little **faith**!
 + focus is not on **birds**/flowers, but
   + on compassion of our **Father**
 + and our **response** in faith
+
+---
+For you know how you ought to **imitate** us,<br>
+because we were not **idle** when we were with you,<br>
+[8](# "ref")
+nor did we eat anyone's **bread**<br>
+without paying for it,
+
+but with **toil and labor** we worked **night and day**,<br>
+that we might not be a **burden** to any of you
+
+[10](# "ref")
+If anyone is not willing to **work**, let him not **eat**.
+
+[2 Thessalonians 3:7-8,10 (ESV)](# "ref")
 
 ---
 Are not five **sparrows** sold for two pennies?<br>
