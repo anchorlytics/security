@@ -294,6 +294,11 @@ you are of more **value** than many sparrows.
 + **worry** / anxiety does no good:
   + split/**divided** attention
   + unable to **focus** on God's kingdom
++ **emotional** response in anxiety
+  + **health**: consumed by diet / exercise
+  + **safety**: check locks 10x each night
++ give self **busy work**
+  + illusion of **control** over life
 
 ---
 <!-- .slide: data-background="white" -->
@@ -315,12 +320,6 @@ and what you are to drink, nor be **worried**.
   + not about becoming **rich**, but
   + freedom from **worry** about necessities
 
-+ **emotional** response in anxiety
-  + **health**: consumed by diet / exercise
-  + **safety**: check locks 10x each night
-+ give self **busy work**
-  + illusion of **control** over life
-
 ---
 For all the nations of the **world**<br>
 seek after these things,
@@ -339,26 +338,20 @@ and your **Father knows** that you need them.
 **Instead**, seek his **kingdom**,<br>
 and these things will be added to you.
 
-[32](# "ref")
-“**Fear** not, little **flock**,<br>
-for it is your **Father's** good pleasure <br>
-to give you the **kingdom**.
-
-[Luke 12:31-32 (ESV)](# "ref")
+[Luke 12:31 (ESV)](# "ref")
 
 >>>
 + instead: **only**, just this one thing
++ seek: w/**intent**, pursue, strive
+  + purpose to **discern**, find out for sure
+  + as of philosophical inquiry
+  + **investigate** to conclusion
 + **kingdom**: make Christ **king** in our hearts
   + **act** as servants of the High King
   + **proclaim** His kingship and authority
-+ seek: **pursue**, be consumed by, jealous for
 + what is it we **fear**?
   + not being able to **provide** for ourselves?
   + or do we fear **God** foremost?
-+ little flock: term of **affection**
-  + we are **small**, powerless
-  + but our **powerful** Shepherd guides us
-+ and has a **promise** of future hope
 
 ---
 **Sell** your possessions, and **give** to the needy.
@@ -382,7 +375,56 @@ and no **moth** destroys.
 + by **giving**, we:
   + train our **reliance** on God's providence
   + learn to emulate His **mercy**
-+ **invest** in lasting treasure
++ worldly wealth is not **reliable**:
+  + **external** threats (thieves)
+  + **internal** loss of utility (decay)
+
+---
+Let the **lowly** brother boast in his **exaltation**,<br>
+[10](# "ref")
+and the **rich** in his **humiliation**,
+
+because like a **flower** of the grass he will **pass away**.
+
+[James 1:9-10 (ESV)](# "ref")
+
+>>>
++ flowers are **beautiful** but don't last
++ we are **worth** much more than flowers
+  + not **defined** by what you **own**
++ use the fleeting **riches** of this world
++ to **invest** in lasting treasure
++ rich **young man**: kept all **commandments**
+  + **morally** irreproachable
+  + but **missing** one important thing:
+
+---
+One thing you still **lack**.<br>
+**Sell** all that you have and distribute to the **poor**,<br>
+and you will have **treasure in heaven**;<br>
+and come, **follow me**
+
+[Luke 18:22 (ESV)](# "ref")
+
+>>>
++ learn **dependence** on God
++ show **mercy** to others as God has to us
++ let go of earthly **treasure**
+  + in order to gain **heavenly** treasure
++ **follow** in Christ's footsteps
+
+---
+“**Fear** not, little **flock**,<br>
+for it is your **Father's** good pleasure <br>
+to give you the **kingdom**.
+
+[Luke 12:32 (ESV)](# "ref")
+
+>>>
++ little flock: term of **affection**
+  + we are **small**, powerless
+  + but our **powerful** Shepherd guides us
++ and has a **promise** of future hope
 
 ---
 In everything **commending** ourselves as **servants** of God
@@ -392,6 +434,9 @@ as **poor** yet making many **rich**, <br>
 as having **nothing** yet possessing **all** things
 
 [2 Corinthians 6:4,10 (NASB)](# "ref")
+
+>>>
++ 
 
 ---
 For where your **treasure** is,<br>
@@ -405,10 +450,25 @@ there will your **heart** be also.
 
 ---
 <!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> -->
+**Sell** your possessions, and **give** to the needy.
+
+Provide yourselves with **moneybags**<br>
+that do not grow **old**,
+
+with a **treasure** in the heavens <br>
+that does not **fail**,
+
+where no **thief** approaches <br>
+and no **moth** destroys.
+
+[Luke 12:33-34 (ESV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> -->
 For where your **treasure** is,<br>
 there will your **heart** be also.
 
-[Luke 12:34 (ESV)](# "ref")
+[Luke 12:33-34 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> class="empty" -->
