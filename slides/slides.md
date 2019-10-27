@@ -3,15 +3,18 @@
 ## Luke 12:22-34
 
 >>>
-+ 22-23 intro: life/body more than food/clothing
-+ 24: birds fed
-+ 25-26: hour to life
-+ 27-28: lilies clothed
-+ 29-30: seek / suspense for food/clothing
-+ 31-32: the kingdom
-+ 33-34: treasure in heaven
++ powerlessness, dependency:
+  + 22-23 intro: life/body more than food/clothing
+  + 24: birds fed
+  + 25-26: hour to life
++ worry, pursuit
+  + 27-28: lilies clothed
+  + 29-30: seek / suspense for food/clothing
++ treasure
+  + 31-32: the kingdom
+  + 33-34: treasure in heaven
 + not **laziness**: not work => not eat
-+ even the grass: 700-yr pots common in China, your "antiques" are our junk
++ even the grass: 700-yr pots common in China, your "antiques" are our trash
 
 ---
 <!-- .slide: data-background="white" -->
