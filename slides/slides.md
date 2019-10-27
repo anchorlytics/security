@@ -1,6 +1,8 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-SiOW0btU0zk-taxes.jpg") %> id="title" -->
 # Life Security
 ## Luke 12:22-34
+
+[Kelly Sikkema](https://unsplash.com/photos/SiOW0btU0zk "caption")
 
 >>>
 + powerlessness, dependency:
