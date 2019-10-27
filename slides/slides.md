@@ -111,7 +111,7 @@ there will your heart be also.
 ## Luke 12:22-34
 1. Anxiety [(v22-24)](# "ref")
 1. Ability [(v25-28)](# "ref")
-1. Alms [(v29-34)](# "ref")
+1. Aim [(v29-34)](# "ref")
 
 >>>
 + **worry**, emotional response
@@ -220,7 +220,7 @@ made me this **wealth**.’
 ## Luke 12:22-34
 1. Anxiety [(v22-24)](# "ref")
 1. **Ability** [(v25-28)](# "ref")
-1. Alms [(v29-34)](# "ref")
+1. Aim [(v29-34)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-UIUgYu9bENU-dark_pocketwatch.jpg") %> -->
@@ -356,7 +356,7 @@ O you of little **faith**!
 ## Luke 12:22-34
 1. Anxiety [(v22-24)](# "ref")
 1. Ability [(v25-28)](# "ref")
-1. **Alms** [(v29-34)](# "ref")
+1. **Aim** [(v29-34)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
